@@ -6,6 +6,7 @@ AI is my jam, and you can catch me swiping right on Samsung – who needs love w
 ⚡ Fun fact: I'm a coder with chronic imposter syndrome!
 
 Repository Overview 📂
+
 This repository is a digital scrapbook of my tech journey, filled with various projects, experiments, and a sprinkle of my quirky humor. 
 Feel free to explore, collaborate, or just hang out! Don't hesitate to reach out if you have any questions or just want to chat about tech, life, or anything in between.
 
