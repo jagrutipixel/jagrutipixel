@@ -1,16 +1,18 @@
-### Hi there 👋
+Welcome to Jagruti's Personal GitHub Repository!:woman_technologist:
 
-<!--
-**jagrutipixel/jagrutipixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I'm Jagruti, a tech enthusiast with a keen interest in data engineering, UX/UI design, and occasionally knocking a ping pong ball around or throwing some punches(boxing). 
+AI is my jam, and you can catch me swiping right on Samsung – who needs love when you've got a Galaxy in your pocket, right?
 
-Here are some ideas to get you started:
+⚡ Fun fact: I'm a coder with chronic imposter syndrome!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Repository Overview 📂
+This repository is a digital scrapbook of my tech journey, filled with various projects, experiments, and a sprinkle of my quirky humor. 
+Feel free to explore, collaborate, or just hang out! Don't hesitate to reach out if you have any questions or just want to chat about tech, life, or anything in between.
+
+Thanks for stopping by, UwU.
+
+📫 How to reach me: @jaggus717@gmail.com
+
+:speech_balloon:Pronouns: she/her
+
+README crafted with ❤️ and code by Jagruti
